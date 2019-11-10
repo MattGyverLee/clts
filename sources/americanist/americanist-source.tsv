@@ -1,0 +1,256 @@
+BIPA	Americanist	Description	Note	Change
+#Vowels
+i	i		y	
+y	ü		y	
+ɨ	ɨ		y	
+ʉ	ʉ		y	
+ɯ	ï		y	
+u	u		y	
+ɪ	ɩ		y	
+	ᵼ		n	
+ʏ	ü		y	
+ʊ	U		y	
+e	e		y	
+ø	ö		y	
+ɘ	ɘ		Placement	
+ɵ	ɵ		y	
+ɤ	ë		y	
+o	o		y	
+ə	ə		n	
+ɛ	ɛ		y	
+œ	œ		y	
+ɜ	ɜ		n	
+ɞ	ɞ		n	
+ʌ	ʌ		Placement	
+ɔ	ɔ		y	
+æ	æ		y	
+ɐ	ɐ		y	
+a	a		y	
+ɶ	ɶ		y	
+ɑ	ɑ		y	
+ɒ	ɒ		y	
+#Plosives
+p	p		y	
+b	b		y	
+t̪	t̯		y	
+d̪	d̯		y	
+t	t		y	
+d	d		y	
+ʈ	ṭ		y	
+ɖ	ḍ		y	
+t̻	tʸ		y	
+t̻	ƫ		y	
+d̻	dʸ		y	
+d̻	ᶁ		y	
+c	k̯		y	
+ɟ	g̯		y	
+ɟ	ɡ̯		y	
+k	k		y	
+ɡ	g		y	
+ɡ	ɡ		y	
+q	ḳ		y	
+ɢ	ɡ̣		y	
+ɢ	g̣		y	
+ʔ	ʔ		y
+ʔ	?		y
+#Nasals	
+m̥	M		y	
+m	m		y	
+ɱ	ɱ		Borrow	
+n̪	n̯		y	
+n̥	N		y	
+n	n		y	
+ɳ	ṇ		y	
+n̻̥	Ñ		y	
+n̻	ñ		y	
+ɲ	ŋ̯		y	
+ŋ̊	Ŋ		Descender Conflict	
+ŋ	ŋ		y	
+ɴ	ŋ̣		y	
+#Trills
+ʙ̥	p̃		y	
+ʙ	b̃		y	
+r̪̥	r̯̠̃		y	
+r̪	r̯̃		y	
+r̥	R̃		y	
+r	r̃		y	
+ʀ̥	Ṟ		Diff Underlines	
+ʀ̥	R̠		Diff Underlines	
+ʀ̥	R̲		Diff Underlines	
+ʀ	R		SmallCap?	
+#Taps or Flaps
+ⱱ̥	f̆		y	
+ⱱ	v̆		y	
+ɾ̪̥	ř̯̱		Mistake on Sheet	
+ɾ̪	ř̯		Not IPA
+ɾ̥	ř̠		y	
+ɾ	ř		y	
+ɽ̥	ř̠̣		y	
+ɽ	ṛ̌		y	
+#Fricatives
+ɸ	φ		y	
+ɸ	p̶		y	
+β	β		y	
+β	b̶		y	
+f	f		y	
+v	v		y	
+θ	θ		y	
+ð	ð		y	
+ð	d̶		y	
+ç	x̯		y	
+ʝ	g̶̯		y	
+ʝ	ɡ̶̯		y	
+x	x		y	
+ɣ	g̶		y	
+ɣ	ɡ̶		y	
+χ	x̣		y	
+ʁ	ɡ̶̣		y	
+ʁ	g̶̣		y	
+ħ	ħ		Borrow	
+ʕ	ʕ		y	
+h	h		y	
+ɦ	ɦ		Borrow	
+#Fricative Sibilants
+s̪	s̯		y	
+z̪	z̯		y	
+s	s		y	
+z	z		y	
+ʂ	ṣ		y	
+ʐ	ẓ		y	
+ʃ̟	š̯		y	
+ʒ̟	ž̯		y	
+ʃ	š		y	
+ʒ	ž		y	
+ᶘ	ṣ̌		y	
+ᶚ	ẓ̌		y	
+s̻	š̯		y	
+s̻ʲ	š̯ʸ		y	
+#Lateral Fricatives
+ɬ	ƚ̟		y
+ɬ	ł		y
+ɮ	l̟		y	
+#Approximants
+ʋ	ʋ		y	
+ɹ	ɹ		y	
+ɻ	r		Probably Invalid	
+j	y		y	
+ɰ	ɰ		Borrow	
+#Lateral Approximants
+l̥	ƚ		y	
+l	l		y	
+ɭ	ɭ		Borrow	
+l̻	ᶅ		y
+ʎ	ʎ		Borrow	
+ʎ	lʸ		y	
+ʟ	ʟ		y	
+#Ejective Stops
+pʼ	pˀ		y	
+pʼ	p̓		y	
+tʼ	tˀ		y	
+tʼ	t̓		y	
+ʈʼ	ṭˀ		y	
+ʈʼ	ṭˀ		y	
+cʼ	cˀ		y	
+cʼ	c̓		y	
+kʼ	kˀ		y	
+kʼ	k̓		y	
+qʼ	qˀ		y	
+qʼ	q̓		y	
+#Implosives
+ɓ̥	pˤ		y	
+ɓ̥	p̓		y
+ɓ̥	ƥ		Withdrawn 1993
+ɓ	bˤ		y	
+ɓ	b̓		y	
+ɗ̥	tˤ		y	
+ɗ̥	t̓		y
+ɗ̥	ƭ		Withdrawn 1993
+ɗ	dˤ		y	
+ɗ	d̓		y	
+ʄ̊	k̯ˤ		y	
+ʄ̊	k̯̓		y
+ʄ̊	ƈ		Withdrawn 1993	
+ʄ	ɡ̯ˤ		Descender Conflict	
+ʄ	g̯ˤ		Descender Conflict	
+ʄ	ɡ̯̓		Descender Conflict	
+ʄ	g̯̓		Descender Conflict	
+ɠ̊	kˤ		y	
+ɠ̊	k̓		y
+ɠ̊	ƙ		Withdrawn 1993
+ɠ	ɡˤ		y	
+ɠ	gˤ		y	
+ɠ	ɡ̓		y	
+ɠ	g̓		y	
+ʛ̊	ḳˤ		y	
+ʛ̊	ḳˤ		y	
+ʛ̊	ḳ̓		y	
+ʛ̊	ḳ̓		y
+ʛ̊	ʠ		Withdrawn 1993
+ʛ	ɡ̣ˤ		y	
+ʛ	g̣ˤ		y	
+ʛ	ɡ̣̓		y	
+ʛ	g̣̓		y	
+#Clicks
+ʘ	p‹		y	
+ɡ͡ʘ	b‹		y	
+ǀ	t̯̯‹		y	
+ɡ͡ǀ	d̯̯‹		y	
+ǃ	t‹		y	
+ɡ͡!	d‹		y
+!!	ṭ‹		y
+‼̬	ḍ‹		Non-Standard	
+#Affricates
+p͡ɸ	pp̶		y	
+b͡β	bb̶		y	
+p͡f	pf		y	
+b͡v	bv		y	
+t͡θ	tθ		y	
+d̪͡ð	dd̶		y	
+#Grooved Affricate
+t̪͡s̪	t̯s̯		y	
+d̪͡z̪	d̯z̯		y	
+t͡s	ts		y	
+t͡s	t͡s		y
+t͡s	ȼ		y
+t͡s	ts		y	
+d͡z	dz		y	
+d͡z	d͡z		y	
+ʈ͡ʂ	ṭṣ		y	
+ʈ͡ʂ	č̣		y	
+ɖ͡ʐ	ḍẓ		y	
+t͡ʃ	č		y	
+t͡ʃ	tš		y	
+d͡ʒ	dž		y
+d͡ʒ	ǰ		y
+d͡ʒ	ǧ		y
+d͡ʒ	ǯ		y
+ʈ͡ᶘ	ṭṣ̌		y	
+ɖ͡ᶚ	ḍẓ̌		y	
+#Other Affricates
+ƛ	t͡ɬ		y
+t͡ɕ	t͡ɕ		y	
+d͡ʑ	d͡ʑ		y	
+#Other	
+ʍ	ʍ		Borrow	
+j	Y		y	
+w̥	W		y	
+w	w		y	
+ɥ	ɥ		Borrow	
+ʜ	ʜ		Borrow	
+ʢ	ʢ		Borrow	
+ʡ	ʡ		Borrow
+ɧ	ɧ		Borrow	
+ǂ	ƫ‹		y	
+ǁ	ƚ‹		y	
+ɺ			n	
+ɕ			n	
+ʑ			n	
+#Leftovers
+d͡l	d͡l		y
+d͡ɮ	λ		y	
+ǂ	ǂ		n	
+sʼ	sʼ		n	
+ᵃ	ᵃ		n	
+ʼ	ʼ		n	
+̃	̧		Nasalized Diacritic	
+ː	:		n	

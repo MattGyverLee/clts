@@ -1,0 +1,238 @@
+BIPA	Americanist	Description	Note	Change	Dataset	Class
+i	i	unrounded close front vowel	y	0	americanist	Vowels
+y	ü	rounded close front vowel	y	1	americanist	Vowels
+ɨ	ɨ	unrounded close central vowel	y	0	americanist	Vowels
+ʉ	ʉ	rounded close central vowel	y	0	americanist	Vowels
+ɯ	ï	unrounded close back vowel	y	1	americanist	Vowels
+u	u	rounded close back vowel	y	0	americanist	Vowels
+ɪ	ɩ	unrounded near-close near-front vowel	y	1	americanist	Vowels
+	ᵼ		n	1	americanist	Vowels
+ʏ	ü	rounded near-close near-front vowel	y	1	americanist	Vowels
+ʊ	U	rounded near-close near-back vowel	y	1	americanist	Vowels
+e	e	unrounded close-mid front vowel	y	0	americanist	Vowels
+ø	ö	rounded close-mid front vowel	y	1	americanist	Vowels
+ɘ	ɘ	unrounded close-mid central vowel	Placement	0	americanist	Vowels
+ɵ	ɵ	rounded close-mid central vowel	y	0	americanist	Vowels
+ɤ	ë	unrounded close-mid back vowel	y	1	americanist	Vowels
+o	o	rounded close-mid back vowel	y	0	americanist	Vowels
+ə	ə	unrounded mid central vowel	n	0	americanist	Vowels
+ɛ	ɛ	unrounded open-mid front vowel	y	0	americanist	Vowels
+œ	œ	rounded open-mid front vowel	y	0	americanist	Vowels
+ɜ	ɜ	unrounded open-mid central vowel	n	0	americanist	Vowels
+ɞ	ɞ	rounded open-mid central vowel	n	0	americanist	Vowels
+ʌ	ʌ	unrounded open-mid back vowel	Placement	0	americanist	Vowels
+ɔ	ɔ	rounded open-mid back vowel	y	0	americanist	Vowels
+æ	æ	unrounded near-open front vowel	y	0	americanist	Vowels
+ɐ	ɐ	unrounded near-open central vowel	y	0	americanist	Vowels
+a	a	unrounded open front vowel	y	0	americanist	Vowels
+ɶ	ɶ	rounded open front vowel	y	0	americanist	Vowels
+ɑ	ɑ	unrounded open back vowel	y	0	americanist	Vowels
+ɒ	ɒ	rounded open back vowel	y	0	americanist	Vowels
+p	p	voiceless bilabial stop consonant	y	0	americanist	Plosives
+b	b	voiced bilabial stop consonant	y	0	americanist	Plosives
+t̪	t̯	voiceless dental stop consonant	y	1	americanist	Plosives
+d̪	d̯	voiced dental stop consonant	y	1	americanist	Plosives
+t	t	voiceless alveolar stop consonant	y	0	americanist	Plosives
+d	d	voiced alveolar stop consonant	y	0	americanist	Plosives
+ʈ	ṭ	voiceless retroflex stop consonant	y	1	americanist	Plosives
+ɖ	ḍ	voiced retroflex stop consonant	y	1	americanist	Plosives
+t̻ʲ	tʸ	voiceless laminal alveolar stop consonant	y	1	americanist	Plosives
+t̻	ƫ	voiceless laminal alveolar stop consonant	y	1	americanist	Plosives
+d̻ʲ	dʸ	voiced laminal alveolar stop consonant	y	1	americanist	Plosives
+d̻	ᶁ	voiced laminal alveolar stop consonant	y	1	americanist	Plosives
+c	k̯	voiceless palatal stop consonant	y	1	americanist	Plosives
+ɟ	g̯	voiced palatal stop consonant	y	1	americanist	Plosives
+ɟ	ɡ̯	voiced palatal stop consonant	y	1	americanist	Plosives
+k	k	voiceless velar stop consonant	y	0	americanist	Plosives
+ɡ	g	voiced velar stop consonant	y	1	americanist	Plosives
+ɡ	ɡ	voiced velar stop consonant	y	0	americanist	Plosives
+q	ḳ	voiceless uvular stop consonant	y	1	americanist	Plosives
+ɢ	ɡ̣	voiced uvular stop consonant	y	1	americanist	Plosives
+ɢ	g̣	voiced uvular stop consonant	y	1	americanist	Plosives
+ʔ	ʔ	voiceless glottal stop consonant	y	0	americanist	Plosives
+ʔ	?	voiceless glottal stop consonant	y	1	americanist	Plosives
+m̥	M	devoiced voiced bilabial nasal consonant	y	1	americanist	Nasals
+m	m	voiced bilabial nasal consonant	y	0	americanist	Nasals
+ɱ	ɱ	voiced labio-dental nasal consonant	Borrow	0	americanist	Nasals
+n̪	n̯	voiced dental nasal consonant	y	1	americanist	Nasals
+n̥	N	devoiced voiced alveolar nasal consonant	y	1	americanist	Nasals
+n	n	voiced alveolar nasal consonant	y	0	americanist	Nasals
+ɳ	ṇ	voiced retroflex nasal consonant	y	1	americanist	Nasals
+n̻̥	Ñ	devoiced voiced laminal alveolar nasal consonant	y	1	americanist	Nasals
+n̻	ñ	voiced laminal alveolar nasal consonant	y	1	americanist	Nasals
+ɲ	ŋ̯	voiced palatal nasal consonant	y	1	americanist	Nasals
+ŋ̊	Ŋ	devoiced voiced velar nasal consonant	Descender Conflict	1	americanist	Nasals
+ŋ	ŋ	voiced velar nasal consonant	y	0	americanist	Nasals
+ɴ	ŋ̣	voiced uvular nasal consonant	y	1	americanist	Nasals
+ʙ̥	p̃	devoiced voiced bilabial trill consonant	y	1	americanist	Trills
+ʙ	b̃	voiced bilabial trill consonant	y	1	americanist	Trills
+r̪̥	r̯̠̃	devoiced voiced dental trill consonant	y	1	americanist	Trills
+r̪	r̯̃	voiced dental trill consonant	y	1	americanist	Trills
+r̥	R̃	devoiced voiced alveolar trill consonant	y	1	americanist	Trills
+r	r̃	voiced alveolar trill consonant	y	1	americanist	Trills
+ʀ̥	Ṟ	devoiced voiced uvular trill consonant	Diff Underlines	1	americanist	Trills
+ʀ̥	R̠	devoiced voiced uvular trill consonant	Diff Underlines	1	americanist	Trills
+ʀ̥	R̲	devoiced voiced uvular trill consonant	Diff Underlines	1	americanist	Trills
+ʀ	R	voiced uvular trill consonant	SmallCap?	1	americanist	Trills
+ⱱ̥	f̆	devoiced voiced labio-dental tap consonant	y	1	americanist	Taps or Flaps
+ⱱ	v̆	voiced labio-dental tap consonant	y	1	americanist	Taps or Flaps
+ɾ̪̥	ř̯̱		Mistake on Sheet	1	americanist	Taps or Flaps
+ɾ̪	ř̯		Not IPA	1	americanist	Taps or Flaps
+ɾ̥	ř̠	devoiced voiced alveolar tap consonant	y	1	americanist	Taps or Flaps
+ɾ	ř	voiced alveolar tap consonant	y	1	americanist	Taps or Flaps
+ɽ̥	ř̠̣	devoiced voiced retroflex tap consonant	y	1	americanist	Taps or Flaps
+ɽ	ṛ̌	voiced retroflex tap consonant	y	1	americanist	Taps or Flaps
+ɸ	φ	voiceless bilabial fricative consonant	y	1	americanist	Fricatives
+ɸ	p̶	voiceless bilabial fricative consonant	y	1	americanist	Fricatives
+β	β	voiced bilabial fricative consonant	y	0	americanist	Fricatives
+β	b̶	voiced bilabial fricative consonant	y	1	americanist	Fricatives
+f	f	voiceless labio-dental fricative consonant	y	0	americanist	Fricatives
+v	v	voiced labio-dental fricative consonant	y	0	americanist	Fricatives
+θ	θ	voiceless dental fricative consonant	y	0	americanist	Fricatives
+ð	ð	voiced dental fricative consonant	y	0	americanist	Fricatives
+ð	d̶	voiced dental fricative consonant	y	1	americanist	Fricatives
+ç	x̯	voiceless palatal sibilant fricative consonant	y	1	americanist	Fricatives
+ʝ	g̶̯	voiced palatal fricative consonant	y	1	americanist	Fricatives
+ʝ	ɡ̶̯	voiced palatal fricative consonant	y	1	americanist	Fricatives
+x	x	voiceless velar fricative consonant	y	0	americanist	Fricatives
+ɣ	g̶	voiced velar fricative consonant	y	1	americanist	Fricatives
+ɣ	ɡ̶	voiced velar fricative consonant	y	1	americanist	Fricatives
+χ	x̣	voiceless uvular fricative consonant	y	1	americanist	Fricatives
+ʁ	ɡ̶̣	voiced uvular fricative consonant	y	1	americanist	Fricatives
+ʁ	g̶̣	voiced uvular fricative consonant	y	1	americanist	Fricatives
+ħ	ħ	voiceless pharyngeal fricative consonant	Borrow	0	americanist	Fricatives
+ʕ	ʕ	voiced pharyngeal fricative consonant	y	0	americanist	Fricatives
+h	h	voiceless glottal fricative consonant	y	0	americanist	Fricatives
+ɦ	ɦ	voiced glottal fricative consonant	Borrow	0	americanist	Fricatives
+s̪	s̯	voiceless dental sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+z̪	z̯	voiced dental sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+s	s	voiceless alveolar sibilant fricative consonant	y	0	americanist	Fricative Sibilants
+z	z	voiced alveolar sibilant fricative consonant	y	0	americanist	Fricative Sibilants
+ʂ	ṣ	voiceless retroflex sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+ʐ	ẓ	voiced retroflex sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+ʃ̟	š̯	advanced voiceless post-alveolar sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+ʒ̟	ž̯	advanced voiced post-alveolar sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+ʃ	š	voiceless post-alveolar sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+ʒ	ž	voiced post-alveolar sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+ᶘ	ṣ̌		y	1	americanist	Fricative Sibilants
+ᶚ	ẓ̌		y	1	americanist	Fricative Sibilants
+s̻	š̯	voiceless laminal alveolar sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+s̻ʲ	š̯ʸ	palatalized voiceless laminal alveolar sibilant fricative consonant	y	1	americanist	Fricative Sibilants
+ɬ	ƚ̟	voiceless alveolar lateral fricative consonant	y	1	americanist	Lateral Fricatives
+ɬ	ł	voiceless alveolar lateral fricative consonant	y	1	americanist	Lateral Fricatives
+ɮ	l̟	voiced alveolar lateral fricative consonant	y	1	americanist	Lateral Fricatives
+ʋ	ʋ	voiced labio-dental approximant consonant	y	0	americanist	Approximants
+ɹ	ɹ	voiced alveolar approximant consonant	y	0	americanist	Approximants
+ɻ	r	voiced retroflex approximant consonant	Probably Invalid	1	americanist	Approximants
+j	y	voiced palatal approximant consonant	y	1	americanist	Approximants
+ɰ	ɰ	voiced velar approximant consonant	Borrow	0	americanist	Approximants
+l̥	ƚ	devoiced voiced alveolar lateral approximant consonant	y	1	americanist	Lateral Approximants
+l	l	voiced alveolar lateral approximant consonant	y	0	americanist	Lateral Approximants
+ɭ	ɭ	voiced retroflex lateral approximant consonant	Borrow	0	americanist	Lateral Approximants
+l̻	ᶅ	voiced laminal alveolar lateral approximant consonant	y	1	americanist	Lateral Approximants
+ʎ	ʎ	voiced palatal lateral approximant consonant	Borrow	0	americanist	Lateral Approximants
+ʎ	lʸ	voiced palatal lateral approximant consonant	y	1	americanist	Lateral Approximants
+ʟ	ʟ	voiced velar lateral approximant consonant	y	0	americanist	Lateral Approximants
+pʼ	pˀ	voiceless bilabial ejective stop consonant	y	1	americanist	Ejective Stops
+pʼ	p̓	voiceless bilabial ejective stop consonant	y	1	americanist	Ejective Stops
+tʼ	tˀ	voiceless alveolar ejective stop consonant	y	1	americanist	Ejective Stops
+tʼ	t̓	voiceless alveolar ejective stop consonant	y	1	americanist	Ejective Stops
+ʈʼ	ṭˀ	voiceless retroflex ejective stop consonant	y	1	americanist	Ejective Stops
+ʈʼ	ṭˀ	voiceless retroflex ejective stop consonant	y	1	americanist	Ejective Stops
+cʼ	cˀ	voiceless palatal ejective stop consonant	y	1	americanist	Ejective Stops
+cʼ	c̓	voiceless palatal ejective stop consonant	y	1	americanist	Ejective Stops
+kʼ	kˀ	voiceless velar ejective stop consonant	y	1	americanist	Ejective Stops
+kʼ	k̓	voiceless velar ejective stop consonant	y	1	americanist	Ejective Stops
+qʼ	qˀ	voiceless uvular ejective stop consonant	y	1	americanist	Ejective Stops
+qʼ	q̓	voiceless uvular ejective stop consonant	y	1	americanist	Ejective Stops
+ɓ̥	pˤ	devoiced voiced bilabial implosive consonant	y	1	americanist	Implosives
+ɓ̥	p̓	devoiced voiced bilabial implosive consonant	y	1	americanist	Implosives
+ɓ̥	ƥ	devoiced voiced bilabial implosive consonant	Withdrawn 1993	1	americanist	Implosives
+ɓ	bˤ	voiced bilabial implosive consonant	y	1	americanist	Implosives
+ɓ	b̓	voiced bilabial implosive consonant	y	1	americanist	Implosives
+ɗ̥	tˤ	devoiced voiced dental implosive consonant	y	1	americanist	Implosives
+ɗ̥	t̓	devoiced voiced dental implosive consonant	y	1	americanist	Implosives
+ɗ̥	ƭ	devoiced voiced dental implosive consonant	Withdrawn 1993	1	americanist	Implosives
+ɗ	dˤ	voiced dental implosive consonant	y	1	americanist	Implosives
+ɗ	d̓	voiced dental implosive consonant	y	1	americanist	Implosives
+ʄ̊	k̯ˤ	devoiced voiced palatal implosive consonant	y	1	americanist	Implosives
+ʄ̊	k̯̓	devoiced voiced palatal implosive consonant	y	1	americanist	Implosives
+ʄ̊	ƈ	devoiced voiced palatal implosive consonant	Withdrawn 1993	1	americanist	Implosives
+ʄ	ɡ̯ˤ	voiced palatal implosive consonant	Descender Conflict	1	americanist	Implosives
+ʄ	g̯ˤ	voiced palatal implosive consonant	Descender Conflict	1	americanist	Implosives
+ʄ	ɡ̯̓	voiced palatal implosive consonant	Descender Conflict	1	americanist	Implosives
+ʄ	g̯̓	voiced palatal implosive consonant	Descender Conflict	1	americanist	Implosives
+ɠ̊	kˤ	devoiced voiced velar implosive consonant	y	1	americanist	Implosives
+ɠ̊	k̓	devoiced voiced velar implosive consonant	y	1	americanist	Implosives
+ɠ̊	ƙ	devoiced voiced velar implosive consonant	Withdrawn 1993	1	americanist	Implosives
+ɠ	ɡˤ	voiced velar implosive consonant	y	1	americanist	Implosives
+ɠ	gˤ	voiced velar implosive consonant	y	1	americanist	Implosives
+ɠ	ɡ̓	voiced velar implosive consonant	y	1	americanist	Implosives
+ɠ	g̓	voiced velar implosive consonant	y	1	americanist	Implosives
+ʛ̊	ḳˤ	devoiced voiced uvular implosive consonant	y	1	americanist	Implosives
+ʛ̊	ḳˤ	devoiced voiced uvular implosive consonant	y	1	americanist	Implosives
+ʛ̊	ḳ̓	devoiced voiced uvular implosive consonant	y	1	americanist	Implosives
+ʛ̊	ḳ̓	devoiced voiced uvular implosive consonant	y	1	americanist	Implosives
+ʛ̊	ʠ	devoiced voiced uvular implosive consonant	Withdrawn 1993	1	americanist	Implosives
+ʛ	ɡ̣ˤ	voiced uvular implosive consonant	y	1	americanist	Implosives
+ʛ	g̣ˤ	voiced uvular implosive consonant	y	1	americanist	Implosives
+ʛ	ɡ̣̓	voiced uvular implosive consonant	y	1	americanist	Implosives
+ʛ	g̣̓	voiced uvular implosive consonant	y	1	americanist	Implosives
+ʘ	p‹	voiceless labial click consonant	y	1	americanist	Clicks
+ɡ͡ʘ	b‹	voiced labial click consonant	y	1	americanist	Clicks
+ǀ	t̯̯‹	voiceless dental click consonant	y	1	americanist	Clicks
+ɡ͡ǀ	d̯̯‹	voiced dental click consonant	y	1	americanist	Clicks
+ǃ	t‹	voiceless alveolar click consonant	y	1	americanist	Clicks
+ɡ͡!	d‹	voiced alveolar click consonant	y	1	americanist	Clicks
+!!	ṭ‹	voiceless retroflex click consonant	y	1	americanist	Clicks
+‼̬	ḍ‹		Non-Standard	1	americanist	Clicks
+p͡ɸ	pp̶	voiceless bilabial affricate consonant	y	1	americanist	Affricates
+b͡β	bb̶	voiced bilabial affricate consonant	y	1	americanist	Affricates
+p͡f	pf	voiceless labio-dental affricate consonant	y	1	americanist	Affricates
+b͡v	bv	voiced labio-dental affricate consonant	y	1	americanist	Affricates
+t͡θ	tθ	voiceless dental affricate consonant	y	1	americanist	Affricates
+d̪͡ð	dd̶	voiced dental affricate consonant	y	1	americanist	Affricates
+t̪͡s̪	t̯s̯	voiceless dental sibilant affricate consonant	y	1	americanist	Grooved Affricate
+d̪͡z̪	d̯z̯	voiced dental sibilant affricate consonant	y	1	americanist	Grooved Affricate
+t͡s	ts	voiceless alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+t͡s	t͡s	voiceless alveolar sibilant affricate consonant	y	0	americanist	Grooved Affricate
+t͡s	ȼ	voiceless alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+t͡s	ts	voiceless alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+d͡z	dz	voiced alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+d͡z	d͡z	voiced alveolar sibilant affricate consonant	y	0	americanist	Grooved Affricate
+ʈ͡ʂ	ṭṣ	voiceless retroflex sibilant affricate consonant	y	1	americanist	Grooved Affricate
+ʈ͡ʂ	č̣	voiceless retroflex sibilant affricate consonant	y	1	americanist	Grooved Affricate
+ɖ͡ʐ	ḍẓ	voiced retroflex sibilant affricate consonant	y	1	americanist	Grooved Affricate
+t͡ʃ	č	voiceless post-alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+t͡ʃ	tš	voiceless post-alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+d͡ʒ	dž	voiced post-alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+d͡ʒ	ǰ	voiced post-alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+d͡ʒ	ǧ	voiced post-alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+d͡ʒ	ǯ	voiced post-alveolar sibilant affricate consonant	y	1	americanist	Grooved Affricate
+ʈ͡ᶘ	ṭṣ̌		y	1	americanist	Grooved Affricate
+ɖ͡ᶚ	ḍẓ̌		y	1	americanist	Grooved Affricate
+ƛ	t͡ɬ	voiceless alveolar lateral affricate consonant	y	1	americanist	Other Affricates
+t͡ɕ	t͡ɕ	voiceless alveolo-palatal sibilant affricate consonant	y	0	americanist	Other Affricates
+d͡ʑ	d͡ʑ	voiced alveolo-palatal sibilant affricate consonant	y	0	americanist	Other Affricates
+ʍ	ʍ	voiceless labio-velar approximant consonant	Borrow	0	americanist	Other
+j	Y	voiced palatal approximant consonant	y	1	americanist	Other
+w̥	W	devoiced voiced labio-velar approximant consonant	y	1	americanist	Other
+w	w	voiced labio-velar approximant consonant	y	0	americanist	Other
+ɥ	ɥ	voiced labio-palatal approximant consonant	Borrow	0	americanist	Other
+ʜ	ʜ	voiceless epiglottal fricative consonant	Borrow	0	americanist	Other
+ʢ	ʢ	voiced epiglottal fricative consonant	Borrow	0	americanist	Other
+ʡ	ʡ	voiceless epiglottal stop consonant	Borrow	0	americanist	Other
+ɧ	ɧ	voiceless palatal-velar fricative consonant	Borrow	0	americanist	Other
+ǂ	ƫ‹	voiceless palatal click consonant	y	1	americanist	Other
+ǁ	ƚ‹	voiceless lateral click consonant	y	1	americanist	Other
+ɺ		voiced alveolar lateral tap consonant	n	1	americanist	Other
+ɕ		voiceless alveolo-palatal sibilant fricative consonant	n	1	americanist	Other
+ʑ		voiced alveolo-palatal sibilant fricative consonant	n	1	americanist	Other
+d͡l	d͡l		y	0	americanist	Leftovers
+d͡ɮ	λ	voiced alveolar lateral affricate consonant	y	1	americanist	Leftovers
+ǂ	ǂ	voiceless palatal click consonant	n	0	americanist	Leftovers
+sʼ	sʼ	voiceless alveolar ejective sibilant fricative consonant	n	0	americanist	Leftovers
+ᵃ	ᵃ		n	0	americanist	Leftovers
+ʼ	ʼ		n	0	americanist	Leftovers
+̃	̧		Nasalized Diacritic	1	americanist	Leftovers
+ː	:		n	1	americanist	Leftovers
